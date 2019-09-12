@@ -17,3 +17,5 @@ minp-Minimum points in e distance
 
 
 ### In this code i have seperately created a cutom grid serach function to obtain the most accurate and precise parameters forthe DBSCAN algorithm.
+
+![dbscanscratch](https://user-images.githubusercontent.com/24733068/64752993-f677c100-d564-11e9-94e2-da0aa78f16c0.png)
