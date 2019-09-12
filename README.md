@@ -11,9 +11,9 @@ min-Minimum points in e distance
 
 ## Simple way to understand and construct the algorithm from scratch.
 
-1)Find all the core points (d<=e , numberofpoints>=minpoints).
-2)Assign detected each core point as a cluster
-3)Find all the neighbouring points close to each core point.                                                                     
+1)Find all the core points (d<=e , numberofpoints>=minpoints).                                                          
+2)Assign detected each core point as a cluster.                                                                                                            
+3)Find all the neighbouring points close to each core point.                                                                                                                     
 4)Assign them to same cluster as the core points if there not already assigned.                                                 
 5)Assign remaing points which are not assign to any cluster as noise(-1).                                                           
 
